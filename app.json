@@ -26,6 +26,7 @@
       "description": "If you are directly deploying from GitHub, set this to False. But if you later add Service Accounts, go to 'Config Vars' in app settings and set this to True.",
       "value": "False",
       "required": false
+      }
     },
     "buildpacks": [
       {
